@@ -8,7 +8,7 @@
     <style>
 
     </style>
-    <link rel="stylesheet" href="/lab3/ci4/public/css/style.css">
+    <link rel="stylesheet" href="<?php echo base_url('css/style.css');?>"> 
 </head>
 <body>
 
